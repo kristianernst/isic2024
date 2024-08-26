@@ -11,4 +11,5 @@ out.txt
 *out_images*
 encoder_epoch_*
 notes.md
+*__pycache__*
 *.ipynb*
